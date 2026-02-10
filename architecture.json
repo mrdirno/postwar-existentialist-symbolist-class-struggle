@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-symbolist-class-struggle",
+  "title": "The Geometry of Weight",
+  "tagline": "In the ash-grey suspension of postwar Paris, a ghost of a man drives the living relics of a dying class, navigating a landscape of engineered voids and profound neglect.",
+  "target_words": 66607,
+  "actual_words": 66607,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Memory",
+    "The Architecture of Class",
+    "The Rituals of Alienation",
+    "The Search for Substance in the Void"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ash-Grey Suspension",
+      "words": 6055
+    },
+    {
+      "ch": 2,
+      "title": "The Ritual of the Chamois",
+      "words": 6055
+    },
+    {
+      "ch": 3,
+      "title": "The Grammar of Invisibility",
+      "words": 6055
+    },
+    {
+      "ch": 4,
+      "title": "A Liturgy of Dust",
+      "words": 6055
+    },
+    {
+      "ch": 5,
+      "title": "The Geological Conclusion",
+      "words": 6055
+    },
+    {
+      "ch": 6,
+      "title": "The Engineered Void",
+      "words": 6055
+    },
+    {
+      "ch": 7,
+      "title": "A Discordant Celebration",
+      "words": 6055
+    },
+    {
+      "ch": 8,
+      "title": "The Syntax of Obedience",
+      "words": 6055
+    },
+    {
+      "ch": 9,
+      "title": "A Diagram of Neglect",
+      "words": 6055
+    },
+    {
+      "ch": 10,
+      "title": "The Geometry of Weight",
+      "words": 6055
+    },
+    {
+      "ch": 11,
+      "title": "Bureaucratic Rain",
+      "words": 6055
+    }
+  ]
+}
